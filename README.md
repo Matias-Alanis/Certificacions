@@ -18,3 +18,10 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
 - **Description**: Throughout this course I learned about  the very basics of Java, starting with essential fundamentals like variables, data types, and conditional and repetitive structures. Since Java is a fundamental language for backend development, this course helped me develop the necessary skills  to excel in the tech industry.
 - [**Course Link**](https://talleres.donweb.com/talleres/conquistando-el-backend-master-class-de-java-para-principiantes/)
+
+
+### ["Encuentra la Presencia Digital Adecuada para una Marca"](https://github.com/Matias-Alanis/Certifications/blob/c0e1741f4f6139d7d70fa355d2a089f54d6a8bac/PresenciaDigital.pdf)
+- **Date of Achievement**: 09/23
+- **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
+- **Description**: This course provided invaluable insights and skills to establish a powerful digital presence and leverage the vast opportunities presented by the online landscape, irrespective of your industry or sector. The highlights of the course were Tailored Strategy, Social Media Mastery, Non-conventional spaces and .site Domains.
+- [**Course Link**](https://talleres.donweb.com/talleres/encuentra-la-presencia-digital-adecuada-para-una-empresa/)

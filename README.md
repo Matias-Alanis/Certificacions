@@ -7,6 +7,12 @@ Note: It's not much, but it's honest work.
 
 Below, you'll find a list of certifications relevant to my profile:
 
+### [English Language Proficiency Certification](https://github.com/Matias-Alanis/Certifications/blob/dadbb9a025401feb15c98f3083d8d43546c78a01/EF%20SET%20Certificate.pdf)
+- **Date of Achievement**: 18/07/22
+- **Certifying Entity**: [EFSET](https://www.efset.org)
+- **Description**: Effective communication is an essential skill in the world of technology, and this proficiency enhances my capabilities in collaborating with global teams, contributing to open-source projects, and participating in the international tech community. 
+- [**Certificate Link**](https://www.efset.org/cert/d8jnBt/)
+
 ### [HTML y CSS desde Cero](https://github.com/Matias-Alanis/Certifications/blob/21842e83cbda36f5a584d1ca0d165c546b1599e0/CursodeHTMLyCSS.pdf)
 - **Date of Achievement**: 23/10/23
 - **Certifying Entity**: [TodoCode](https://www.todocodeacademy.com/)

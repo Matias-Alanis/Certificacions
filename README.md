@@ -13,6 +13,7 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Description**: In this certification, I learned about the frontend world, focusing on HTML, CSS.  These two languages are the fundamental building blocks of modern web development and are essential skills to learn for anyone interested in designing and developing websites.
 - [**Course Link**](https://todocodeacademy.com/course/html-y-css-desde-cero/)
 
+
 ### ["Conquistando el Backend: Master Class de Java para Principiantes"](https://github.com/Matias-Alanis/Certifications/blob/a3f025624595b0d8f5703fbd7dc229992d459e3e/MasterClassJavaPrincipiantes.pdf)
 - **Date of Achievement**: 08/23
 - **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
@@ -25,3 +26,10 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
 - **Description**: This course provided invaluable insights and skills to establish a powerful digital presence and leverage the vast opportunities presented by the online landscape, irrespective of your industry or sector. The highlights of the course were Tailored Strategy, Social Media Mastery, Non-conventional spaces and .site Domains.
 - [**Course Link**](https://talleres.donweb.com/talleres/encuentra-la-presencia-digital-adecuada-para-una-empresa/)
+
+
+### ["Dominando la Creación de Imágenes con IA – Fundamentos y Herramientas Web"](https://github.com/Matias-Alanis/Certifications/blob/51c88072719384fced35e9305009a9acb4030f56/CreacionImagenesconIA.pdf)
+- **Date of Achievement**: 09/23
+- **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
+- **Description**: This course provided me with a comprehensive introduction to the art of crafting stunning visuals through AI-driven techniques. The highlights of the course were AI Image Generation, Web Applications for Image Generation, Pre-Trained Models, Style Infusion and Techniques and Effective Prompts. 
+- [**Course Link**](https://talleres.donweb.com/talleres/dominando-la-creacion-de-imagenes-con-ia-fundamentos-y-herramientas-web/)

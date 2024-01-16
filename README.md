@@ -39,3 +39,10 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Certifying Entity**: [Talleres donweb](https://talleres.donweb.com/)
 - **Description**: This course provided me with a comprehensive introduction to the art of crafting stunning visuals through AI-driven techniques. The highlights of the course were AI Image Generation, Web Applications for Image Generation, Pre-Trained Models, Style Infusion and Techniques and Effective Prompts. 
 - [**Course Link**](https://talleres.donweb.com/talleres/dominando-la-creacion-de-imagenes-con-ia-fundamentos-y-herramientas-web/)
+
+
+### ["Git y GitHub Desde Cero"](https://github.com/Matias-Alanis/Certifications/blob/41b3d063e135f96f432d80eac721f7de7cbdbb35/CertificadoGitGitHub.pdf)
+- **Date of Achievement**: 01/24
+- **Certifying Entity**: [TodoCode](https://www.todocodeacademy.com/)
+- **Description**: In this course, I learned about  the necessary concepts to handle remote repositories using the version control system Git, and create, manage, share, and update remote repositories through GitHub.
+- [**Course Link**](https://todocodeacademy.com/course/git-y-github-desde-cero/)
